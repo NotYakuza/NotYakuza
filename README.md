@@ -1,27 +1,58 @@
-# 💫 About Me:
-👋 Hi, I’m @NotYakuza<br>👀 I’m interested in coding.<br>💞️ I’m looking to collaborate on Discord Bot Developers.
+<h1 align="center">
+     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=1000&color=F7F7F7&width=240&lines=Hey%2C+I'm+Levin%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
+     
+</h1>
 
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/discord.gg/urlaub) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@sph_sxphie) 
+<hr>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=NotYakuza&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=NotYakuza&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NotYakuza&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=ZeusseinGrossopa&show_icons=true&theme=codeSTACKr&count_private=true&include_all_commits=true&custom_title=Stats&hide=issues,stars" alt="Zeus's Stats"/>
+</p>
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+
+
+<hr>
+
+<h4 align="center">🔭  Languages and Frameworks ...</h4>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">&nbsp;&nbsp;
+</p>
+
+<hr>
+
+<h4 align="center">🌱  Operating Systems ...</h4>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Debian-d70a53?style=for-the-badge&logo=debian&logoColor=white" alt="Ubuntu">&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">&nbsp;&nbsp;
+</p>
+
+<hr>
+
+<h4 align="center">🛠️ Tools and Platforms ...</h4>
+<p align="center">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">&nbsp;&nbsp;    
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">&nbsp;&nbsp;    
+    <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ">&nbsp;&nbsp;
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=NotYakuza&icon=0&color=0)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/papyal.me/ImNotYakuza) 
-
-  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-  
 
 
+<h1 align="center">
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/ZeusSeinGrossopa/count.svg" />
+</h1>
+
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ZeusSeinGrossopa&area=true&hide_border=true&theme=gotham)  
+
+<p align="center">
+    <img src="https://streak-stats.demolab.com?user=ZeusSeinGrossopa&theme=tokyonight_duo&hide_border=true&border_radius=20" alt="Zeus's Stats"/>
+</p>
+
+
+---
